@@ -1,6 +1,6 @@
 # MLoT.ai - Max's Lab of Things
 
-![VS Code Extensions](https://img.shields.io/badge/VS%20Code%20Extensions-10-blue)
+![VS Code Extensions](https://img.shields.io/badge/VS%20Code%20Extensions-11-blue)
 ![NPM Packages](https://img.shields.io/badge/NPM%20Packages-7-green)
 
 > Building ideas from 0 to 1
@@ -24,6 +24,11 @@
 - Youtube: https://youtu.be/S0kfET0g1eU
 - MLoT Link: https://mlot.ai/just-a-midnight-theme/
 - Public Link: https://marketplace.visualstudio.com/items?itemName=maxs-lab-of-things.just-a-midnight-theme
+
+# Modular Clipboard
+- Youtube: https://youtu.be/scZh06HVZ9s
+- MLoT Link: https://mlot.ai/modular-clipboard/
+- Public Link: https://marketplace.visualstudio.com/items?itemName=maxs-lab-of-things.modular-clipboard
 
 # Project Web
 - Youtube: https://youtu.be/85x_4uAXccw
